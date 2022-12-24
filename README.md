@@ -67,7 +67,7 @@
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ro0ti&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&fire=AD1E1EB2&ring=7D83C1&border=7D83C1&dates=99A0EC&currStreakNum=9198E0BC&currStreakLabel=6894E0BC&sideNums=6894E0BC" width="400">
     </a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ro0ti&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&fire=AD1E1EB2&ring=7D83C1&border=7D83C1&dates=99A0EC&currStreakNum=9198E0BC&currStreakLabel=6894E0BC&sideNums=6894E0BC" width="400"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ro0ti&count_private=true&show_icons=true&theme=tokyo-night" width="400"></a>
 </p>
   
 
