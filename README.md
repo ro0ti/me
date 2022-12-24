@@ -38,11 +38,11 @@
 <p align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5">
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a> 
-  <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f"></a>    
-  <img alt="Sql" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
-  <img alt="Mongo" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea"></a> 
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D">
+  <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494">
+  <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f">
+  <img alt="Sql" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120">
+  <img alt="Mongo" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea">
 </p>
 
 
