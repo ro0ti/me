@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Employer-Droply+Corporation-blue?style=for-the-badge)](https://droplycorp.com/)
+[![Website Badge](https://img.shields.io/badge/Employer-Droply Corporation-blue?style=for-the-badge)](https://droplycorp.com/)
   
 
 
@@ -22,13 +22,6 @@
    <img alt="Discord" src="https://img.shields.io/badge/Discord-ro0ti%232266-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/ro0ti">
    <img alt="Github" src="https://img.shields.io/github/followers/ro0ti?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-
-  ----
-
-
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
 
 
 <h2 align="center" style="margin-bottom:20px;">Frontal Lobe Nodes</h2>
