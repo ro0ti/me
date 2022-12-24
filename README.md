@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-Welcome to my Git! 
+
 
 <p align="center">
 
