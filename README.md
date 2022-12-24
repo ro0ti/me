@@ -6,7 +6,7 @@
 <p align="center">
 
 
-![ro0ti](https://user-images.githubusercontent.com/94861415/208275918-bccfdeb0-31a4-44b7-99aa-499a3e51a2bb.png)
+![ro0ti](https://i.imgur.com/ddqsdzo.gif)
 
 
 
