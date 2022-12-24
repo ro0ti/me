@@ -44,12 +44,16 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL">
 
+  <img alt="C#" src="https://img.shields.io/badge/C Sharp-000000?style=for-the-badge&logo=C Sharp">
+
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite">
+  <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go">
+
 
   <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494">
   <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f">
-  <img alt="Sql" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120">
+  
   <img alt="Mongo" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea">
 </p>
 
