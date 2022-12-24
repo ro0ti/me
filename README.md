@@ -36,7 +36,8 @@
 
 <h2 align="center" style="margin-bottom:20px;">My Specialized Languages</h2>
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=HTML5"></a>
+
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5"></a>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a> 
   <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f"></a>    
