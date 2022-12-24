@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Employer-Droply Corporation-blue?style=for-the-badge)](https://droplycorp.com/)
+[![Website Badge](https://img.shields.io/badge/Employer-Droply%20Corporation-blue?style=for-the-badge)](https://droplycorp.com/)
   </p>
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
