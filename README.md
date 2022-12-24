@@ -34,7 +34,7 @@
 </p>
 
 
-<h2 align="center">Programming languages that i mainly use.</h2>
+<h2 align="center">My Specialized Languages</h2>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a> 
@@ -82,7 +82,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Fnoberz server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Nerded" alt="Nerded" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
 
