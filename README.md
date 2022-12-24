@@ -6,7 +6,7 @@
 <p align="center">
 
 
-[![ro0ti](https://i.imgur.com/ddqsdzo.gif)
+![ro0ti](https://i.imgur.com/ddqsdzo.gif)
 
 
 
