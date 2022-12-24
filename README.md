@@ -51,7 +51,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=Lua">
-  <img alt="Assembly" src="https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=AssemblyScript">
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=AssemblyScript">
   <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C">
   <img alt="R" src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R">
   <img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift">
