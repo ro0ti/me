@@ -34,7 +34,7 @@
 </p>
 
 
-<h2 align="center" style="margin-bottom:20px;">My Specialized Languages</h2>
+<h2 align="center" style="margin-bottom:20px;">Frontal Lobe Nodes</h2>
 <p align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5">
@@ -70,26 +70,8 @@
 </p>
   
 
-
-
-<h2 align="center">Contact me</h2>
-
-
-- 📌 Information about all Products [Information](https://github.com/Club-CC/Detail)
-
-- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
-
-- 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
-
-- 💬 Discord [Slackes#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
-
-
-</pre><br>
-
 <h2 align="center">Get In Touch</h2>
 
-
-<a target="_blank" href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <p align="center">
   <a href="#">
     <img title="ro0ti#2266" alt="ro0ti#2266" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
