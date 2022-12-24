@@ -38,6 +38,7 @@
 <p align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D">
   <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494">
   <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f">
