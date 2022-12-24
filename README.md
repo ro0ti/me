@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-
+Welcome to my Git! 
 
 <p align="center">
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 
-Welcome to my Git! ![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
+![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
   
 
 
