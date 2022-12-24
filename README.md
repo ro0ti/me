@@ -34,7 +34,8 @@
 </p>
 
 
-<h2 align="center">My Specialized Languages</h2><br>
+<h2 align="center">My Specialized Languages</h2>
+<p id="test">...</p>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a> 
@@ -43,6 +44,13 @@
   <img alt="Mongo" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea"></a> 
 </p>
 
+<script>
+var count = 0;
+setInterval(function() {
+  count++;
+  document.getElementById("test").innerHTML = count;
+}, 1000);
+</script>
 
 <div>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Slackes&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
