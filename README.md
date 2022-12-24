@@ -99,7 +99,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Nerded" alt="Nerded" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="ro0ti#2266" alt="ro0ti#2266" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
     </a>
 </p>
 
