@@ -41,6 +41,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3">
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jQuery">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL">
+
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite">
 
   <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494">
   <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f">
