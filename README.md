@@ -6,13 +6,13 @@
 <p align="center">
 
 
-![ro0ti](https://i.imgur.com/ddqsdzo.gif)
+[![ro0ti](https://i.imgur.com/ddqsdzo.gif)
 
 
 
 <p align="center">
 
-![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
+[![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
   
 
 
