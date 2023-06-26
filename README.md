@@ -60,7 +60,8 @@
 <h2 align="center">Get In Touch</h2>
 
 <p align="center">
+  **ro0ti** on Discord
   <a href="#">
-    <img title="ro0ti#2266" alt="ro0ti#2266" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
+    <img title="ro0ti" alt="ro0ti" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
   </a>
 </p>
