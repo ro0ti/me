@@ -15,12 +15,12 @@
   </p>
 <p align="center">
     <a href="https://discord.com/users/825534327219421214">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-ro0ti%232266-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-ro0ti-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/ro0ti">
    <img alt="Github" src="https://img.shields.io/github/followers/ro0ti?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
 </p>
 
-<h2 align="center" style="margin-bottom:20px;">Frontal Lobe Nodes</h2>
+<h2 align="center" style="margin-bottom:20px;">Expertise</h2>
 <p align="center">
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5">
@@ -49,14 +49,4 @@
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ro0ti&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&fire=AD1E1EB2&ring=7D83C1&border=7D83C1&dates=99A0EC&currStreakNum=9198E0BC&currStreakLabel=6894E0BC&sideNums=6894E0BC" width="400">
     </a> 
-</p>
-  
-
-<h2 align="center">Get In Touch</h2>
-
-<p align="center">
-  **ro0ti** on Discord (Cards for Discord username update broke this plugin. :(
-  <a href="#">
-    <img title="ro0ti" alt="ro0ti" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
-  </a>
 </p>
