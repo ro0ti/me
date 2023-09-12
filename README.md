@@ -45,10 +45,6 @@
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=Ruby">
 </p>
 
-
-<div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ro0ti&theme=tokyo-night&bg_color=00000000&point=00000000&hide_border=true&custom_title=Overall+Activity&area=true">
-</div>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ro0ti&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&fire=AD1E1EB2&ring=7D83C1&border=7D83C1&dates=99A0EC&currStreakNum=9198E0BC&currStreakLabel=6894E0BC&sideNums=6894E0BC" width="400">
