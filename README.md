@@ -4,7 +4,6 @@
 
 
 <p align="center">
-# BEING UPDATED - 9/12/2023
 
 ![ro0ti](https://i.imgur.com/ddqsdzo.gif)
 
@@ -12,7 +11,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Employer-Droply%20Corporation-blue?style=for-the-badge)](https://droplycorp.com/)
+[![Website Badge](https://img.shields.io/badge/Pending-Portfolio%20Updates-blue?style=for-the-badge)](https://simplyexperts.com/)
   </p>
 <p align="center">
     <a href="https://discord.com/users/825534327219421214">
@@ -60,7 +59,7 @@
 <h2 align="center">Get In Touch</h2>
 
 <p align="center">
-  **ro0ti** on Discord
+  **ro0ti** on Discord (Cards for Discord username update broke this plugin. :(
   <a href="#">
     <img title="ro0ti" alt="ro0ti" src="https://discord.c99.nl/widget/theme-1/825534327219421214.png"/>
   </a>
